@@ -1,0 +1,7 @@
+<svg width="320" height="80" viewBox="0 0 320 80" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="JESVEL Technologies">
+  <g transform="translate(4,4)">
+    <path d="M36 8 L42 26 L60 32 L42 38 L36 56 L30 38 L12 32 L30 26 Z" fill="#0E1630"/>
+    <path d="M36 8 L42 26 L60 32" fill="none" stroke="#E8A0BC" stroke-width="3" stroke-linejoin="round"/>
+  </g>
+  <text x="90" y="48" font-family="Manrope, 'DM Sans', Arial, sans-serif" font-weight="800" font-size="30" letter-spacing="0.5" fill="#0E1630">JESVEL</text>
+</svg>
